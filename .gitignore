@@ -452,3 +452,7 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+/xadrez_console/obj/project.assets.json
+/xadrez_console/obj/project.nuget.cache
+/xadrez_console/obj/xadrez_console.csproj.nuget.dgspec.json
+/xadrez_console/obj/xadrez_console.csproj.nuget.g.props
