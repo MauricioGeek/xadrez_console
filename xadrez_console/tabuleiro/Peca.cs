@@ -21,6 +21,12 @@ namespace tabuleiro
             qtdMovimentos++;
         }
 
+
+        public void decrementarQtdaMovimentos()
+        {
+            qtdMovimentos--;
+        }
+
         public bool existeMovimentosPossiveis()
         {
             bool[,] mat = movimentosPossiveis();
